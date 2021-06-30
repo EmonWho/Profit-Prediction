@@ -1,1 +1,1 @@
-# Profit-Prediction
+# Profit-Prediction using Linear Regression Model
